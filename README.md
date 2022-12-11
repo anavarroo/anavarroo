@@ -8,7 +8,7 @@
 
 
 
-## Mi Blog en proceso...
+## my blog in progress...
 ---
 [![Blog](https://img.shields.io/website?label=anavarroo.com&style=for-the-badge&url=https://anavarroo.com/)](https://anavarroo.com)
 
