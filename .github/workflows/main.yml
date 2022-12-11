@@ -25,7 +25,7 @@ jobs:
 
       - name: update action.yml to use image from local Dockerfile
         run: |
-          sed -i "s/image: .*/image: Dockerfile/" action.yml
+          sed -i "s/image: .*/image: Dockerfile/" main.yml
       - name: generate-snake-game-from-github-contribution-grid
         id: generate-snake
         uses: ./
