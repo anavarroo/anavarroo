@@ -1,6 +1,6 @@
 # Hello! My name is Alberto Navarro, Welcome to my GitHub profile 🙃
 
-### Something about me...
+## Something about me...
 
 
 - 📖 I am currently studying to be a multiplatform Application Developer
