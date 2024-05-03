@@ -1,12 +1,14 @@
-# ¡Hola! Mi nombre es Alberto Navarro, ¡Bienvenido a mi perfil de GitHub! 🙃
+# ¡Hola! Soy Alberto Navarro, ¡Bienvenido a mi perfil de GitHub! 
 
 ## Algo sobre mi: 
-
 
 - 📖 Actualmente estoy estudiando para ser Desarrollador de Aplicaciones Multiplataforma.
 - 🔠 Una frase que realmente me gusta es: Todo lo que puedas imaginar se puede programar.
 
+## Proyectos destacados
 
+(![image](https://github.com/anavarroo/anavarroo/assets/117681310/0da1f1fd-cc18-494f-b109-cec230350dd7)
+)
 
 ![Anavarroo's GitHub stats](https://github-readme-stats.vercel.app/api?username=anavarroo&theme=dark&show_icons=true)
 
