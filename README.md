@@ -7,8 +7,7 @@
 
 ## Proyectos destacados
 
-(![image](https://github.com/anavarroo/anavarroo/assets/117681310/0da1f1fd-cc18-494f-b109-cec230350dd7)
-)
+(https://github.com/anavarroo/GestionGenericaP)
 
 ![Anavarroo's GitHub stats](https://github-readme-stats.vercel.app/api?username=anavarroo&theme=dark&show_icons=true)
 
