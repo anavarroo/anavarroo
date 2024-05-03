@@ -1,31 +1,17 @@
-# Hello! My name is Alberto Navarro, Welcome to my GitHub profile 🙃
+# ¡Hola! Mi nombre es Alberto Navarro, ¡Bienvenido a mi perfil de GitHub! 🙃
 
-## Something about me...
-
-
-- 📖 I am currently studying to be a multiplatform Application Developer
-- 🔠 A phrase that I really like is: Everything you can imagine can be programmed.
+## Algo sobre mi: 
 
 
+- 📖 Actualmente estoy estudiando para ser Desarrollador de Aplicaciones Multiplataforma.
+- 🔠 Una frase que realmente me gusta es: Todo lo que puedas imaginar se puede programar.
 
-## My blog in progress...
----
-[![Blog](https://img.shields.io/website?label=anavarroo.com&style=for-the-badge&url=https://anavarroo.com/)](https://anavarroo.com)
-
-
-## My social networks!
----
-[![Discord](https://img.shields.io/badge/Discord-Navarro-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://Navarro.com/discord)
-</br>
-[![Twitter](https://img.shields.io/badge/Twitter-NavarroVll-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/NavarroVll)
-[![Instagram](https://img.shields.io/badge/Instagram-@albeertonavarro-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/albeertonavarro/)
-</br>
 
 
 ![Anavarroo's GitHub stats](https://github-readme-stats.vercel.app/api?username=anavarroo&theme=dark&show_icons=true)
 
 
-## My programming languages
+## Mis Lenguajes de programación
 ---
 
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white&labelColor=101010)]()
