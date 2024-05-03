@@ -1,6 +1,4 @@
-# ¡Hola! Soy Alberto Navarro, ¡Bienvenido a mi perfil de GitHub! 
-
-## Algo sobre mi: 
+## ¡Hola! Soy Alberto Navarro, ¡Bienvenido a mi perfil de GitHub! 
 
 - 📖 Actualmente estoy estudiando para ser Desarrollador de Aplicaciones Multiplataforma.
 - 🔠 Una frase que realmente me gusta es: Todo lo que puedas imaginar se puede programar.
