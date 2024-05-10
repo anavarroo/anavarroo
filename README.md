@@ -19,7 +19,7 @@
 
 
 ## 📱 Mi Contacto!
-[![Email](https://img.shields.io/badge/navarrovegaalberto@gmail.com-personal_email_(slow_response)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:navarrovegaalberto@gmail.com)
+[![Email](https://img.shields.io/badge/navarrovegaalberto@gmail.com-personal_email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:navarrovegaalberto@gmail.com)
 
 - LinkedIn: https://www.linkedin.com/in/alberto-navarro-vega-b52916266/
 
