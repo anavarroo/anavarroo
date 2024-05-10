@@ -11,8 +11,7 @@
 ## Tecnologias:
 
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
-[![PHP](https://img.shields.io/badge/PHP-FF2100?style=for-the-badge&logo=html&logoColor=white&labelColor=101010)]()
-[![Kotlin](https://img.shields.io/badge/Kotlin-9146FF?style=for-the-badge&logo=html&logoColor=white&labelColor=101010)]()
+[![Spring Framework](https://img.shields.io/badge/Kotlin-9146FF?style=for-the-badge&logo=html&logoColor=white&labelColor=101010)]()
 [![HTML](https://img.shields.io/badge/HTML-FF215F?style=for-the-badge&logo=html&logoColor=white&labelColor=101010)]()
 [![CSS](https://img.shields.io/badge/CSS-FFCA28?style=for-the-badge&logo=css&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge)]()<br>
